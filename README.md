@@ -1,5 +1,4 @@
 <!-- Level 3: Add custom code -->
-![Markdown-badge-kohasummons-stripped-image](https://github.com/user-attachments/assets/cb8e3243-f3dd-4abc-bb63-8f4e5a17bede)
 # 👋 Hi, I'm Ciph3r!
 👨‍💻 Web3 Engineer sharing about my journey and learnings in tech.<br/>
 👨‍💻 White hat/Pentester.<br/>
