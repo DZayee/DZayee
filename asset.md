@@ -1,4 +1,4 @@
-  
+### This repository features impressive collections of resources to learn Web 3.0  
   - [Web3](#web3)
   - [Blockchain](#blockchain)
   - [Ethereum](#ethereum)
